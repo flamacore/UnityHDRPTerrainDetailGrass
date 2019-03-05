@@ -6,3 +6,6 @@ Just download/copy the shader under any folder in your Assets folder. It will re
 Billboard mode or coloring does not work as of yet. Do not even know if I can make them work :)
 
 Please bear in mind that this is a very basic shader hack. No idea what problems it may cause. Please try/use with caution and definitely back your scene/project up before using this.
+
+# Wind
+You can control wind using the shader graph itself by modifying the default values in properties window for now.
