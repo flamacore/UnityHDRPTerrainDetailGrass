@@ -9,3 +9,5 @@ Please bear in mind that this is a very basic shader hack. No idea what problems
 
 # Wind
 You can control wind using the shader graph itself by modifying the default values in properties window for now.
+
+[![screen-1920x1080-2019-03-15-02-30-15.png](https://i.postimg.cc/90yJbMxd/screen-1920x1080-2019-03-15-02-30-15.png)](https://postimg.cc/MfK7KWJH)
